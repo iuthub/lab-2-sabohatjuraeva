@@ -18,6 +18,16 @@ ul {
 	font-weight: bolder;
 	font-style: italic;
 }
+a:link { color: #FF0000; }
+a:visited { color: #00FF00; }
+a:hover { color: #FF00FF; }
+a {
+	text-decoration: none;
+}
+p:first-letter {
+	font-size: 150%;
+	color: red;
+}
 .mood {
 	padding: 10px;
 	height: 200px;
