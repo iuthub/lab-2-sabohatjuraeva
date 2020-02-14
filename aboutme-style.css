@@ -1,0 +1,25 @@
+body {
+	background-color: #94d4d6;
+}
+h1 {
+	font-family: Algerian, sans-serif;
+	color: #2758b3;
+	text-align: center;
+}
+h2 {
+	font-family: Trebuchet MS, sans-serif;
+	color: #591061;
+}
+p {
+	font-size: 14px;
+	color: #2e0840;
+}
+ul {
+	font-weight: bolder;
+	font-style: italic;
+}
+.mood {
+	padding: 10px;
+	height: 200px;
+	width: 300px;
+}
